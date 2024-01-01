@@ -1,4 +1,4 @@
-package backjoon;
+package _3주차.dfs_bfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
