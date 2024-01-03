@@ -16,7 +16,7 @@ public class Main2875 {
 		int K = Integer.parseInt(st.nextToken());
 
 		for (int i = 0; i < K; i++) {
-			if (N / 2 >= M) { //남자가 더 많다면?
+			if (N / 2 >= M) { //여자가 더 많다면?
 				N--;
 			} else if (N / 2 < M) {
 				M--;
